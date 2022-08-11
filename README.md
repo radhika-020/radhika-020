@@ -6,6 +6,7 @@
 - Linkedin:- https://www.linkedin.com/in/radhika201/
 - Twitter:- https://twitter.com/radhika_201_
 - HackerRank:- https://www.hackerrank.com/radhikaa_20
+- DEV:- https://dev.to/radhika_201
 - Instagram:- https://www.instagram.com/radhika._.201_/
 
 
