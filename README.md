@@ -4,7 +4,9 @@
 - 📫 How to reach me:-
 - Contact me:- aradhika880@gmail.com
 - Linkedin:- https://www.linkedin.com/in/radhika201/
+- Twitter:- https://twitter.com/radhika_201_
 - Instagram:- https://www.instagram.com/radhika._.201_/
+
 
 <!---
 radhika-020/radhika-020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
