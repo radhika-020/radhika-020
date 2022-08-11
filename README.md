@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Radhika Arora.
 - 👀 I’m interested in stuffs about computers, and more or less in programming.
-- 🌱 I’m currently learning Front End Development, DSA using Python.
+- 🌱 I’m currently learning Web Development, DSA using Python.
 - 📫 How to reach me:-
 - Contact me:- aradhika880@gmail.com
 - Linkedin:- https://www.linkedin.com/in/radhika201/
