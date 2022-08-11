@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Radhika Arora.
-- 👀 I’m interested in stuffs about computers, and more or less in the programming.
-- 🌱 I’m currently learning Front End Development.
+- 👀 I’m interested in stuffs about computers, and more or less in programming.
+- 🌱 I’m currently learning Front End Development, DSA using Python.
 - 📫 How to reach me:-
 - Contact me:- aradhika880@gmail.com
 - Linkedin:- https://www.linkedin.com/in/radhika201/
+- Instagram:- https://www.instagram.com/radhika._.201_/
 
 <!---
 radhika-020/radhika-020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
