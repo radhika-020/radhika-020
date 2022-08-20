@@ -2,12 +2,12 @@
 - 👀 I’m interested in stuffs about computers, and more or less in programming.
 - 🌱 I’m currently learning Web Development, DSA using Python.
 - 📫 How to reach me:-
-- Contact me:- aradhika880@gmail.com
-- Linkedin:- https://www.linkedin.com/in/radhika201/
-- Twitter:- https://twitter.com/radhika_201_
-- HackerRank:- https://www.hackerrank.com/radhikaa_20
-- DEV:- https://dev.to/radhika_201
-- Instagram:- https://www.instagram.com/radhika._.201_/
+- Contact me :- aradhika880@gmail.com
+- Linkedin :- https://www.linkedin.com/in/radhika201/
+- Twitter :- https://twitter.com/radhika_201_
+- HackerRank :- https://www.hackerrank.com/radhikaa_20
+- DEV :- https://dev.to/radhika_201
+- Instagram :- https://www.instagram.com/radhika._.201_/
 
 
 
