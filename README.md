@@ -3,7 +3,6 @@
 - 🌱 I’m currently studying Machine Learning/Artificial Intelligence, DSA using Python.
 - 📫 How to reach me:-
 - Linkedin :- https://www.linkedin.com/in/radhika201/
-- HackerRank :- https://www.hackerrank.com/radhikaa_20
 - DEV :- https://dev.to/radhika_201
 - Instagram :- https://www.instagram.com/radhika._.201_/
 
