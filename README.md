@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Radhika Arora.
-- 👀 I’m interested in stuffs about computers, and more or less in programming.
-- 🌱 I’m currently studying Machine Learning/Artificial Intelligence, DSA using Python.
-- 📫 How to reach me:-
 - Linkedin :- https://www.linkedin.com/in/radhika201/
 - DEV :- https://dev.to/radhika_201
 - Instagram :- https://www.instagram.com/radhika._.201_/
